@@ -20,6 +20,13 @@ A hands-on record of my journey learning cybersecurity through practical labs an
 - Tested connectivity with `ping -c 4 1.1.1.1`; initially, no ping replies were received.
 - Troubleshot the VM's network configuration and resolved the connectivity issue.
 
+### Screenshots from the lab
+The following screenshots are saved in [01-kali-lab-setup](01-kali-lab-setup/).
+
+![Kali lab screenshot 1](01-kali-lab-setup/Screenshot%202026-10-15%20131204.png)
+
+[View screenshot 2](01-kali-lab-setup/Screenshot%202026-10-15%20150303.png) · [View screenshot 3](01-kali-lab-setup/Screenshot%202026-10-15%20150720.png) · [View screenshot 4](01-kali-lab-setup/Screenshot%202026-10-15%20151220.png)
+
 ### Commands practiced
 ```bash
 ip -br addr
