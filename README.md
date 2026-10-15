@@ -1,4 +1,5 @@
 # Roadpath to Cybersecurity
+Status: In progress
 
 A beginner-friendly, hands-on portfolio documenting my cybersecurity learning journey, home lab, command-line practice, troubleshooting, and authorized security exercises.
 
